@@ -6,6 +6,6 @@ class Main extends egret.DisplayObjectContainer {
     }
 
     private onAddToStage(event: egret.Event) {
-        // code
+        
     }
 }
