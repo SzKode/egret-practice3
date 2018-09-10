@@ -1,30 +1,30 @@
 {
 	"groups": [
 		{
-			"name": "preload",
-			"keys": "bg_jpg,normalTree_png,leaftexiao_png,silver_png"
+			"keys": "bg_jpg,normalTree_png,leaftexiao_png,silver_png",
+			"name": "preload"
 		}
 	],
 	"resources": [
 		{
-			"name": "bg_jpg",
+			"url": "assets/leaftexiao.png",
 			"type": "image",
-			"url": "bg.jpg"
+			"name": "leaftexiao_png"
 		},
 		{
-			"name": "normalTree_png",
+			"url": "assets/normalTree.png",
 			"type": "image",
-			"url": "normalTree.png"
+			"name": "normalTree_png"
 		},
 		{
-			"name": "leaftexiao_png",
+			"url": "assets/silver.png",
 			"type": "image",
-			"url": "leaftexiao.png"
+			"name": "silver_png"
 		},
 		{
-			"name": "silver_png",
+			"url": "assets/bg.jpg",
 			"type": "image",
-			"url": "silver.png"
+			"name": "bg_jpg"
 		}
 	]
 }
