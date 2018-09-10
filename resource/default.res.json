@@ -1,0 +1,30 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg_jpg,normalTree_png,leaftexiao_png,silver_png"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "bg.jpg"
+		},
+		{
+			"name": "normalTree_png",
+			"type": "image",
+			"url": "normalTree.png"
+		},
+		{
+			"name": "leaftexiao_png",
+			"type": "image",
+			"url": "leaftexiao.png"
+		},
+		{
+			"name": "silver_png",
+			"type": "image",
+			"url": "silver.png"
+		}
+	]
+}
