@@ -1,16 +1,11 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,normalTree_png,leaftexiao_png,silver_png",
+			"keys": "bg_jpg,normalTree_png,silver_png,leaftexiao_json,leaftexiao_png",
 			"name": "preload"
 		}
 	],
 	"resources": [
-		{
-			"url": "assets/leaftexiao.png",
-			"type": "image",
-			"name": "leaftexiao_png"
-		},
 		{
 			"url": "assets/normalTree.png",
 			"type": "image",
@@ -25,6 +20,16 @@
 			"url": "assets/bg.jpg",
 			"type": "image",
 			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/leaftexiao.png",
+			"type": "image",
+			"name": "leaftexiao_png"
+		},
+		{
+			"url": "assets/leaftexiao.json",
+			"type": "json",
+			"name": "leaftexiao_json"
 		}
 	]
 }
